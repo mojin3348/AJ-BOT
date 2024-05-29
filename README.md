@@ -1,10 +1,7 @@
 # Author
 
 <div align="center">
-  <img src="https://i.imgur.com/s0TfpiH.jpeg" alt="Profile Image" width="120" height="120" style="border-radius: 50%;">
-</div>
-<div align="center">
-  <p><strong>Joshua Apostol</strong></p>
+  <p><strong>AJ CHICANO</strong></p>
 </div>
 
 <div align="center">
